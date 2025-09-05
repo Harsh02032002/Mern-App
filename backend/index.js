@@ -19,7 +19,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:3000",
-      "https://full-stack-e-commerce-site-yrlu.vercel.app",
+      "https://mern-app-g9ja.vercel.app",
     ],
     credentials: true,
   })
